@@ -766,6 +766,10 @@ video {
 /*   height: 2000px; */
 }
 
+body{
+    background-color: #f1c87b;
+}
+
 .mid{
   margin-right: 5%;
 }
